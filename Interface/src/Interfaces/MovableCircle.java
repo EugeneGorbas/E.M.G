@@ -1,6 +1,6 @@
 package Interfaces;
 
-public abstract class MovableCircle extends MovablePoint implements Movable
+public abstract class MovableCircle extends MovablePoint
 {
     private int radius;
     private MovablePoint center;

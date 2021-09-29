@@ -25,6 +25,7 @@ public abstract class MovablePoint implements Movable
                 '}';
     }
 
+
     abstract public void moveUp();
     abstract public void moveDown();
     abstract public void moveLeft();
