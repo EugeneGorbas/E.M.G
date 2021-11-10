@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="877f5adc-abd3-4ca3-b01f-090fec7aaa65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task6/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nameable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlanetPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IdeaProjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFirstMirea" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFirstMirea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task6/task6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFirstMirea/src/ru/mirea/task6/task6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/Shape.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shape/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/Arg/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20kLwnvjA6MXx9hPGlLA9iSTiXV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="877f5adc-abd3-4ca3-b01f-090fec7aaa65" name="Changes" comment="" />
+      <created>1636583879951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636583879951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
